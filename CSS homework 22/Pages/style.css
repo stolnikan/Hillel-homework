@@ -1,0 +1,41 @@
+
+body {
+background-color:rgb(97, 87, 87);
+margin-right: 200px;
+margin-left: 200px;
+}
+
+.classtitle {
+  color:rgb(245, 206, 151);
+  font-family: Open Sans;
+  font-size: 60px;
+  line-height: 0.1;
+}
+.classtext {
+  color:rgb(245, 206, 151);
+  font-family: Open Sans;
+  font-size: 16px;
+}
+.classtextlist{
+  color:rgb(245, 206, 151);
+  padding-left: 40px;
+  text-align: left;
+  font-family: Open Sans;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.classi {
+  font-size: 18px;
+}
+.link{
+  background-color: rgb(245, 206, 151);
+  color: rgb(97, 87, 87);
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Open Sans;
+}
+.classgalery {
+  margin: 35px;
+}
